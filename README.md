@@ -58,5 +58,5 @@ Metrics script accepts one parameter from the followng list:
 
 ## License
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/arcelinor/metrics/blob/master/LICENSE) file for details
 
