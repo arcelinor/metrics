@@ -1,13 +1,13 @@
 
 # metrics
 
-Metrics python script is designed to display number of CPU metrics and memory metrics on the system where it runs. 
+Metrics python script is designed to display number of CPU and memory metrics on the system where it runs. 
 
 ## Getting Started
 
 Python 2.6 to 3.6 interpreter is needed to run the script.
 Metrics script displays a floats representing the current system-wide CPU and memory utilization as a percentage.
-It shows following CPU metrics:
+It shows following CPU metrics (for 1 second interval):
 
 | Metric | Description |
 | ------ | ------ |
