@@ -54,9 +54,9 @@ Metrics script accepts one parameter from the followng list:
 ./metrics cpu
 ```
 
-![alt text](https://raw.githubusercontent.com/arcelinor/metrics/master/Metrics_cpu.PNG)
+![alt text](https://raw.githubusercontent.com/arcelinor/metrics/master/metrics_cpu.png)
 
 ## License
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/arcelinor/metrics/blob/master/LICENSE) file for details
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/arcelinor/metrics/blob/master/LICENSE) file for details.
 
